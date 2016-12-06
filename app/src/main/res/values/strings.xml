@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="Paint_items">
+
+        <item> "acrylic" </item>
+        <item> " brushes" </item>
+        <item> " oilpaint" </item>
+        <item> " chart" </item>
+        <item> " fevicol" </item>
+        <item> " pallet" </item>
+        <item> " pastels" </item>
+        <item> " phpsheet" </item>
+        <item> " ribbons" </item>
+        <item> " stickpen" </item>
+        <item> " threads" </item>
+        <item> " waterpaint" </item>
+        <item> " glasspaint" </item>
+        <item> " glitters" </item>
+        <item> " lace" </item>
+        <item> " moulds" </item>
+
+    </string-array>
+
+
+</resources>
